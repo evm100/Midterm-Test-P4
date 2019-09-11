@@ -1,5 +1,3 @@
-package MidtermTestP4;
-
 import chn.util.ConsoleIO;
 import apcslib.*;
 
