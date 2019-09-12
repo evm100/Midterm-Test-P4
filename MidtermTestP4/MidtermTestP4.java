@@ -13,7 +13,7 @@ public class MidtermTestP4 {
         dt.askQuestion();
         cf.askQuestion();
         rl.askQuestion();
-        ld.askQuestion();
+        ld.displayLogo();
 
     }
 }
